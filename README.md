@@ -1,6 +1,6 @@
 # Tailwind Styled Component
 
-This is an alternative of [styled component](https://github.com/styled-components/styled-components) using [tailwindcss](https://tailwindcss.com/).
+This is an alternative of [styled component](https://github.com/styled-components/styled-components) using [tailwindcss](https://tailwindcss.com/).  
 Same as the known library, it utilises [tagged template literals](https://styled-components.com/docs/advanced#tagged-template-literals).
 
 ## How to use it
@@ -21,7 +21,9 @@ const App = () => {
   )
 }
 ```
+
 ---
+
 ## Informations
 
 The pluging is in progress...🔃
