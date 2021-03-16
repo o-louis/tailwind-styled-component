@@ -5,7 +5,7 @@ Same as the known library, it utilises [tagged template literals](https://styled
 
 ## How to use it
 
-```
+```js
 const Section = twd.section`
   w-8 h-8
   text-xl uppercase
@@ -13,13 +13,10 @@ const Section = twd.section`
 `;
 ```
 
-```
+```js
 const App = () => {
-  return (
-    <Section>
-    </Section>
-  )
-}
+  return <Section></Section>;
+};
 ```
 
 ---
